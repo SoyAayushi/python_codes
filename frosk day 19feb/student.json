@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Feb 19 18:51:32 2019
+
+@author: Aayushi
+"""
+
+[{
+	"Name": {
+		"Fname": "aayushi",
+		"Lname": "sharma"
+	},
+	"Branch": "CSE",
+	"City": "kota",
+	"year": 3
+}, {
+	"Name": {
+		"Fname": "vidhan",
+		"Lname": "arora"
+	},
+	"Branch": "CSE",
+	"City": "jaipur",
+	"year": 3
+}]
